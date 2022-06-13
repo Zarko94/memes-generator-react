@@ -1,3 +1,11 @@
+small api and state pratice.
+live site >>> https://frolicking-meringue-af76d6.netlify.app/![Capture](https://user-images.githubusercontent.com/93679996/173303057-93057edb-1704-45c9-8d3a-28e8237e3ed7.JPG)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
